@@ -1,0 +1,101 @@
+#toc_container {
+	margin: 2.41vh 5.51vw;
+	width: 66% !important;
+/* 	text-align: center; */
+	  font-family: 'Lato', 'Noto Sans JP', 	"Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Hiragino Sans", "ヒラギノ角ゴシック", sans-serif;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px rgba(0, 0, 0, .16);
+}
+div.blog-container li {
+			margin-left: 3vw;
+	font-size: 1.2vw;
+		margin-bottom: 0.4vh !important;
+}
+
+div.blog-container img {
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px rgba(0,0,0,.16);
+	margin-left: 1.4vw;
+}
+div.blog-container span {
+/* 		margin-left: 2.41vh; */
+}
+.toc_list li {
+	margin-bottom: 1vh !important;
+}
+.toc_list a{
+	  font-family: 'Lato', 'Noto Sans JP', "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Hiragino Sans", "ヒラギノ角ゴシック", sans-serif;
+	font-size: 1.2vw;
+	margin: 1vh 2.6vw;
+}
+
+div.blog-container a span {
+	margin: 0;
+}
+
+div.blog-container p span {
+	margin: 0;
+	margin-left: 0.3vw;
+}
+
+.toc_list li a{
+	border-bottom: 3px solid rgba(0, 0, 0, 0.16);
+	border-radius: 3px;
+}
+
+#danraku1 {
+	width: 85% !important;
+  padding: 0.1em 0.5em;
+  color: #333;
+	font-size: 2.1vw!important;
+	margin-left: 2.9vw;
+  background: #f4f4f4;
+  border-left: solid 5px #7db4e6;
+  border-bottom: solid 3px #d7d7d7;
+	margin-top: 3.5vh;
+	margin-top: 7.5vh;
+}
+
+#danraku2  {
+	width: 85% !important;
+	font-size: 1.7vw!important;
+  padding: 0.1em 0.5em;
+  color: #333;
+  background: #f4f4f4;
+  border-left: solid 5px #ffaf58;
+  border-bottom: solid 3px #d7d7d7;
+	margin-left: 2.9vw;
+	margin-top: 7.5vh;
+	margin-bottom: 2vh;
+}
+
+#danraku3 {
+	width: 85% !important;
+	font-size: 1.5vw!important;
+  padding: 0.1em 0.5em;
+  color: #333;
+  background: #f4f4f4;
+  border-left: solid 5px #ffca2c;
+  border-bottom: solid 3px #d7d7d7;
+	margin-left: 2.9vw;
+	margin-top: 3.5vh;
+	margin-top: 7.5vh;
+}
+.sasa {
+		margin: 2.41vh 5.51vw;
+}
+.wp-block-group__inner-container li {
+		margin-left: 3vw;
+	font-size: 1.2vw;
+		margin-bottom: 0.4vh !important;
+	
+}
+figure {
+	width: 96%;
+}
+figcaption {
+	font-family: 'Lato', 	"Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "Hiragino Sans", "ヒラギノ角ゴシック", sans-serif;
+	font-weight: 800 !important;
+	background:none !important;
+}
